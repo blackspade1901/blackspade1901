@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackspade1901
-- 👀 I’m interested in reading books, learning geologicalconcepts, learning new new technologies.
+- 👀 I’m interested in reading books, learning geological concepts, learning new-new technologies.
 - 🌱 I’m currently learning software engeneering
 - 💞️ I’m looking to collaborate on website developement
 - 📫 How to reach me here only
